@@ -1,0 +1,10 @@
+.addPhotoDiv{
+    background-color: lightgray;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.addPhotoDiv:hover{
+    background-color: rgb(169, 168, 168);
+    cursor: pointer;
+}
